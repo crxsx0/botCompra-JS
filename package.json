@@ -13,6 +13,7 @@
     "chromedriver": "^109.0.0",
     "gecko": "^0.0.0",
     "geckodriver": "^3.2.0",
+    "selenium": "^2.20.0",
     "selenium-webdriver": "^4.8.0"
   }
 }
